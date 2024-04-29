@@ -1,5 +1,5 @@
 # Digital Clock Project
-
+# <a href="https://yogesh9389.github.io/Digital_Clock_JS/">CLICK HERE</a>
 This project implements a digital clock using HTML, CSS, and JavaScript.
 
 ## Features
@@ -20,7 +20,7 @@ This project implements a digital clock using HTML, CSS, and JavaScript.
    ```bash
    git clone https://github.com/Yogesh9389/digital-clock.git
    
-#MIT License
+# MIT License
 
 Copyright (c) 2024 Yogesh9389
 

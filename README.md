@@ -18,4 +18,4 @@ This project implements a digital clock using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/Yogesh9389/digital-clock.git
